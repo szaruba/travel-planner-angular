@@ -1,0 +1,72 @@
+<ng-container *ngIf="!stateService.state.selectedHotel"> Wähle zuerst eine Unterkunft aus! </ng-container>
+
+<ng-container *ngIf="stateService.state.selectedHotel">
+  <h1>{{ stateService.state.selectedHotel?.name }}</h1>
+  {{ stateService.state.selectedHotel?.formattedAddress }}
+  <div class="flex flex-row flex-nowrap space-x-5">
+    <div class="carousel-container" *ngIf="showCarousel">
+      <c-carousel>
+        <c-carousel-indicators></c-carousel-indicators>
+        <c-carousel-inner>
+          <c-carousel-item *ngFor="let slide of slides; index as i">
+            <img [src]="slide.src" alt="{{ slide.title }}" class="d-block w-100" loading="lazy" />
+          </c-carousel-item>
+        </c-carousel-inner>
+        <c-carousel-control [routerLink] caption="Previous" direction="prev"></c-carousel-control>
+        <c-carousel-control [routerLink] caption="Next" direction="next"></c-carousel-control>
+      </c-carousel>
+    </div>
+
+    <div class="flex flex-column space-y-5">
+      <div class="flex flex-row space-x-3 justify-center align-middle">
+        <mat-form-field>
+          <mat-label>An- und Abreise auswählen</mat-label>
+          <mat-date-range-input [rangePicker]="picker" [formGroup]="tripDateRange">
+            <input
+              matStartDate
+              formControlName="checkInDate"
+              placeholder="Anreisetag"
+              [value]="stateService.state.checkInDate ?? null"
+              (dateChange)="stateService.state.checkInDate = $event.value" />
+            <input
+              matEndDate
+              formControlName="checkOutDate"
+              placeholder="Abreisetag"
+              [value]="stateService.state.checkOutDate ?? null"
+              (dateChange)="stateService.state.checkOutDate = $event.value" />
+          </mat-date-range-input>
+          <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-date-range-picker #picker></mat-date-range-picker>
+        </mat-form-field>
+        <button mat-button mat-raised-button color="primary" (click)="loadOffers()">Zimmerpreise abfragen</button>
+      </div>
+
+      <table mat-table [dataSource]="offers?.offers ?? []" class="mat-elevation-z8 max-w-2xl min-w-lg">
+        <ng-container matColumnDef="selection">
+          <th mat-header-cell *matHeaderCellDef>Auswählen</th>
+          <td mat-cell *matCellDef="let element"><mat-checkbox></mat-checkbox></td>
+        </ng-container>
+
+        <ng-container matColumnDef="price">
+          <th mat-header-cell *matHeaderCellDef>Preis</th>
+          <td mat-cell *matCellDef="let element">{{ element.price.total }}{{ element.price.currency }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="boardType">
+          <th mat-header-cell *matHeaderCellDef>Verpflegung</th>
+          <td mat-cell *matCellDef="let element">{{ element.boardType }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="description">
+          <th mat-header-cell *matHeaderCellDef>Beschreibung</th>
+          <td mat-cell *matCellDef="let element">{{ element.room.description.text }}</td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="['selection', 'price', 'boardType', 'description']"></tr>
+        <tr mat-row *matRowDef="let row; columns: ['selection', 'price', 'boardType', 'description']"></tr>
+      </table>
+      Verfügbar: {{ offers?.available }}
+      <h1 *ngIf="offers?.available === false">In deinem Suchzeitraum gibt es keine verfügbaren Angebote</h1>
+    </div>
+  </div>
+</ng-container>

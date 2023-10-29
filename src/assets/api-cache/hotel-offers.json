@@ -1,0 +1,2832 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "SMUTLDON",
+        "chainCode": "SM",
+        "dupeId": "700001645",
+        "name": "SOL DON PABLO",
+        "cityCode": "UTL",
+        "latitude": 36.6274,
+        "longitude": -4.49394
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "M0ULITAWSZ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nSOL SIDE SEA VIEW ROOM 1 PERS. BREAKFAST INC\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "913.64",
+            "total": "1005.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "91.36",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "182.73"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "182.73"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/M0ULITAWSZ?lang=EN"
+        },
+        {
+          "id": "TX1633CYJ4",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS BREAKFAST\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "959.09",
+            "total": "1055.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "95.91",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "191.82"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "191.82"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/TX1633CYJ4?lang=EN"
+        },
+        {
+          "id": "EK2ZPXCX7Q",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nSOL SIDE SEA VIEW ROOM 1 PERS. BREAKFAST INC\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "963.64",
+            "total": "1060.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "96.36",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "192.73"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "192.73"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/EK2ZPXCX7Q?lang=EN"
+        },
+        {
+          "id": "36VKJX57GA",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\n1PERS. SIDE SEA VIEW ROOM HALF BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1004.55",
+            "total": "1105.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "100.45",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "200.91"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "200.91"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/36VKJX57GA?lang=EN"
+        },
+        {
+          "id": "RPP1LSZKDW",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS BREAKFAST\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1009.09",
+            "total": "1110.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "100.91",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "201.82"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "201.82"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/RPP1LSZKDW?lang=EN"
+        },
+        {
+          "id": "27W2PHV9KQ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS BREAKFAST\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1045.45",
+            "total": "1150.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "104.55",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "209.09"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "209.09"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/27W2PHV9KQ?lang=EN"
+        },
+        {
+          "id": "2FSPP6F13U",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS HB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1050.00",
+            "total": "1155.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "105.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "210.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "210.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/2FSPP6F13U?lang=EN"
+        },
+        {
+          "id": "GLKQWDDDPU",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\n1PERS. SIDE SEA VIEW ROOM HALF BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1054.55",
+            "total": "1160.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "105.45",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "210.91"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "210.91"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/GLKQWDDDPU?lang=EN"
+        },
+        {
+          "id": "ZZZONVQ8MH",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nSOL SIDE SEA VIEW ROOM 1PERS. FULL BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1072.73",
+            "total": "1180.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "107.27",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "214.55"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "214.55"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/ZZZONVQ8MH?lang=EN"
+        },
+        {
+          "id": "7537NMSGKP",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS HB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1100.00",
+            "total": "1210.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "110.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "220.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "220.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/7537NMSGKP?lang=EN"
+        },
+        {
+          "id": "RQYQ3NRR9B",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS BREAKFAST\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1100.00",
+            "total": "1210.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "110.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "220.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "220.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/RQYQ3NRR9B?lang=EN"
+        },
+        {
+          "id": "7UYMQ96VFT",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS FB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1118.18",
+            "total": "1230.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "111.82",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "223.64"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "223.64"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/7UYMQ96VFT?lang=EN"
+        },
+        {
+          "id": "1J79O1R6CR",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Flexible Rate\nSOL SIDE SEA VIEW ROOM 1PERS. FULL BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1122.73",
+            "total": "1235.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "112.27",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "224.55"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "224.55"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/1J79O1R6CR?lang=EN"
+        },
+        {
+          "id": "O6A5V3PPS4",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS HALF BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1136.36",
+            "total": "1250.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "113.64",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "227.27"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "227.27"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/O6A5V3PPS4?lang=EN"
+        },
+        {
+          "id": "9XUS6M1H23",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS FB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1168.18",
+            "total": "1285.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "116.82",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "233.64"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "233.64"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/9XUS6M1H23?lang=EN"
+        },
+        {
+          "id": "TZX6MV7ZWL",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS HALF BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1190.91",
+            "total": "1310.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "119.09",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "238.18"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "238.18"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/TZX6MV7ZWL?lang=EN"
+        },
+        {
+          "id": "GYIXER6XOJ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nSOL SIDE SEA VIEW ROOM 1PERS. ALL INCLUSIVE\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1200.00",
+            "total": "1320.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "120.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "240.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "240.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/GYIXER6XOJ?lang=EN"
+        },
+        {
+          "id": "CJXPS8V8ZO",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS FULL BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1204.55",
+            "total": "1325.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "120.45",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "240.91"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "240.91"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/CJXPS8V8ZO?lang=EN"
+        },
+        {
+          "id": "0PEYDGZWKO",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS AI\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1245.45",
+            "total": "1370.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "124.55",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "249.09"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "249.09"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/0PEYDGZWKO?lang=EN"
+        },
+        {
+          "id": "5UI14ND3EU",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nSOL SIDE SEA VIEW ROOM 1PERS. ALL INCLUSIVE\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1250.00",
+            "total": "1375.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "125.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "250.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "250.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/5UI14ND3EU?lang=EN"
+        },
+        {
+          "id": "YE6VKK67MV",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS FULL BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1259.09",
+            "total": "1385.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "125.91",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "251.82"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "251.82"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/YE6VKK67MV?lang=EN"
+        },
+        {
+          "id": "TO9BA0MDEB",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS AI\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1295.45",
+            "total": "1425.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "129.55",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "259.09"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "259.09"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/TO9BA0MDEB?lang=EN"
+        },
+        {
+          "id": "7OSCZ99RTX",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BP1",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWI",
+            "description": {
+              "text": "Non-refundable Prepaid Rate\nXTRA R. FRONTAL SEA VIEW 1 PERS ALL INCLUSIVE\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1331.82",
+            "total": "1465.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "133.18",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "266.36"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "266.36"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2023-10-27T18:55:00+02:00"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "ADVANCE_DEPOSIT"
+                ]
+              }
+            },
+            "paymentType": "deposit"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/7OSCZ99RTX?lang=EN"
+        },
+        {
+          "id": "B6JLF8LJ29",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "BAR",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWI",
+            "description": {
+              "text": "Flexible Rate\nXTRA R. FRONTAL SEA VIEW 1 PERS ALL INCLUSIVE\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1386.36",
+            "total": "1525.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "138.64",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "277.27"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "277.27"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/B6JLF8LJ29?lang=EN"
+        },
+        {
+          "id": "FY1P4Z0L4N",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nSOL SIDE SEA VIEW ROOM 1 PERS. BREAKFAST INC\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1818.18",
+            "total": "2000.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "181.82",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "363.64"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "363.64"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/FY1P4Z0L4N?lang=EN"
+        },
+        {
+          "id": "CD3I9X8EBQ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\n1PERS. SIDE SEA VIEW ROOM HALF BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "1909.09",
+            "total": "2100.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "190.91",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "381.82"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "381.82"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/CD3I9X8EBQ?lang=EN"
+        },
+        {
+          "id": "ZY9YPEZHWB",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS BREAKFAST\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2000.00",
+            "total": "2200.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "200.00",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "400.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "400.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/ZY9YPEZHWB?lang=EN"
+        },
+        {
+          "id": "9RPO6H696M",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS HB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2090.91",
+            "total": "2300.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "209.09",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "418.18"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "418.18"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/9RPO6H696M?lang=EN"
+        },
+        {
+          "id": "BI5NDW8ZCQ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nSOL SIDE SEA VIEW ROOM 1PERS. FULL BOARD\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2181.82",
+            "total": "2400.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "218.18",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "436.36"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "436.36"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/BI5NDW8ZCQ?lang=EN"
+        },
+        {
+          "id": "KMVPYYCJXV",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS BREAKFAST\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2227.27",
+            "total": "2450.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "222.73",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "445.45"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "445.45"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/KMVPYYCJXV?lang=EN"
+        },
+        {
+          "id": "8UL9WCZZ83",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWM",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS HALF BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2318.18",
+            "total": "2550.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "231.82",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "463.64"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "463.64"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/8UL9WCZZ83?lang=EN"
+        },
+        {
+          "id": "81NWNGT005",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM LATERAL SEA VIEW 1PERS FB\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2363.64",
+            "total": "2600.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "236.36",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "472.73"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "472.73"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/81NWNGT005?lang=EN"
+        },
+        {
+          "id": "089ISH99Y1",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM FRONTAL SEA VIEW 1 PERS FULL BOARD\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2590.91",
+            "total": "2850.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "259.09",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "518.18"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "518.18"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/089ISH99Y1?lang=EN"
+        },
+        {
+          "id": "OG1W4X7RSJ",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "DVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nSOL SIDE SEA VIEW ROOM 1PERS. ALL INCLUSIVE\n24sqm plus 6sqm Terrace w/view,Free Wifi,A/C",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2590.91",
+            "total": "2850.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "259.09",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "518.18"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "518.18"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/OG1W4X7RSJ?lang=EN"
+        },
+        {
+          "id": "4VALKDFRPE",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BVI",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA ROOM LATERAL SEA VIEW 1 PERS AI\nterrace, telephone, AC, wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2772.73",
+            "total": "3050.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "277.27",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "554.55"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "554.55"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/4VALKDFRPE?lang=EN"
+        },
+        {
+          "id": "QRPHRPLFY9",
+          "checkInDate": "2024-07-01",
+          "checkOutDate": "2024-07-06",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "commission": {
+            "percentage": "10.00"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "BWI",
+            "description": {
+              "text": "Flexible Rack Rate\nXTRA R. FRONTAL SEA VIEW 1 PERS ALL INCLUSIVE\nterrace,telephone,AC,wifi",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "EUR",
+            "base": "2954.55",
+            "total": "3250.00",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "295.45",
+                "currency": "EUR",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "590.91"
+              },
+              "changes": [
+                {
+                  "startDate": "2024-07-01",
+                  "endDate": "2024-07-06",
+                  "base": "590.91"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2024-06-30T15:00:00+02:00"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "VI",
+                  "AX",
+                  "CA",
+                  "DC",
+                  "JC",
+                  "MC",
+                  "IK"
+                ],
+                "methods": [
+                  "CREDIT_CARD",
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee"
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/QRPHRPLFY9?lang=EN"
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=SMUTLDON&adults=1&checkInDate=2024-07-01&checkOutDate=2024-07-06&lang=EN"
+    }
+  ]
+}

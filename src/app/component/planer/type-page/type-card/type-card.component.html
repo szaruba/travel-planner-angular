@@ -1,0 +1,6 @@
+<mat-card class="max-w-xs max-h-xs overflow-hidden" [ngClass]="{ selected: isSelected }">
+  <mat-card-header>
+    <mat-card-title>{{ title }}</mat-card-title>
+  </mat-card-header>
+  <img class="min-h-full min-w-full object-cover" mat-card-image src="{{ assetPath }}" alt="{{ title }}" />
+</mat-card>

@@ -1,0 +1,3954 @@
+[
+  {
+    "chainCode": "WT",
+    "iataCode": "AGP",
+    "dupeId": 700013777,
+    "name": "TRYP MALAGA GUADALMAR",
+    "hotelId": "WTAGPGUA",
+    "geoCode": {
+      "latitude": 36.6634,
+      "longitude": -4.45952
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 3.76,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:21:59"
+  },
+  {
+    "chainCode": "RT",
+    "iataCode": "AGP",
+    "dupeId": 700059544,
+    "name": "IBIS MALAGA AVENIDA VELAZQUEZ",
+    "hotelId": "RTAGPIBI",
+    "geoCode": {
+      "latitude": 36.69015,
+      "longitude": -4.46109
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 3.79,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:26"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "UTL",
+    "dupeId": 700027146,
+    "name": "SOL DON MARCO",
+    "hotelId": "SMUTLMAR",
+    "geoCode": {
+      "latitude": 36.64232,
+      "longitude": -4.4799
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 4.02,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:05:14"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700019680,
+    "name": "ISABEL",
+    "hotelId": "HSAGPABM",
+    "geoCode": {
+      "latitude": 36.642,
+      "longitude": -4.48
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 4.05,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:40:03"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700049518,
+    "name": "CORTIJO CHICO",
+    "hotelId": "HSUTLAAU",
+    "geoCode": {
+      "latitude": 36.67651,
+      "longitude": -4.54563
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 4.15,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:58"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AGP",
+    "dupeId": 700003546,
+    "name": "HOTEL TORREMOLINOS BEACH CLUB",
+    "hotelId": "WVAGPTOR",
+    "geoCode": {
+      "latitude": 36.63693,
+      "longitude": -4.48542
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 4.4,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:02:05"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "AGP",
+    "dupeId": 502310896,
+    "name": "SOL DON PEDRO",
+    "hotelId": "SMAGPDON",
+    "geoCode": {
+      "latitude": 36.6274,
+      "longitude": -4.49395
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 5.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "UTL",
+    "dupeId": 700001645,
+    "name": "SOL DON PABLO",
+    "hotelId": "SMUTLDON",
+    "geoCode": {
+      "latitude": 36.6274,
+      "longitude": -4.49394
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 5.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:06:48"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700154356,
+    "name": "SOL DON MARCO",
+    "hotelId": "HSUTLAAJ",
+    "geoCode": {
+      "latitude": 36.62527,
+      "longitude": -4.49289
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 5.56,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:31:41"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "AGP",
+    "dupeId": 700116893,
+    "name": "VINCCI MALAGA",
+    "hotelId": "UIAGPCCI",
+    "geoCode": {
+      "latitude": 36.69484,
+      "longitude": -4.44015
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 5.71,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:55:48"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700023673,
+    "name": "KRISTAL",
+    "hotelId": "HSAGPACR",
+    "geoCode": {
+      "latitude": 36.6233,
+      "longitude": -4.49854
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 5.75,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:40:49"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "UTL",
+    "dupeId": 700001624,
+    "name": "BAJONDILLO",
+    "hotelId": "YXUTLTOR",
+    "geoCode": {
+      "latitude": 36.61828,
+      "longitude": -4.49758
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 6.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:07:05"
+  },
+  {
+    "chainCode": "BN",
+    "iataCode": "AGP",
+    "dupeId": 700047211,
+    "name": "BARCELO MALAGA",
+    "hotelId": "BNAGPBCN",
+    "geoCode": {
+      "latitude": 36.70877,
+      "longitude": -4.43299
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 6.99,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:07:17"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700010165,
+    "name": "MIAMI",
+    "hotelId": "HSUTLAAY",
+    "geoCode": {
+      "latitude": 36.61004,
+      "longitude": -4.50534
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 7.25,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:40:05"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700027739,
+    "name": "POSADAS DE ESPANA MALAGA",
+    "hotelId": "HAAGPPOS",
+    "geoCode": {
+      "latitude": 36.73133,
+      "longitude": -4.55016
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 7.74,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:54"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700022894,
+    "name": "EUROSTARS ASTORIA - MALAGA",
+    "hotelId": "HAAGPAST",
+    "geoCode": {
+      "latitude": 36.71598,
+      "longitude": -4.4257
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 7.98,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:56"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AGP",
+    "dupeId": 700043190,
+    "name": "ROOM MATE LOLA",
+    "hotelId": "WVAGPLOL",
+    "geoCode": {
+      "latitude": 36.71602,
+      "longitude": -4.42328
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.16,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "RT",
+    "iataCode": "AGP",
+    "dupeId": 700118760,
+    "name": "IBIS MALAGA CENTRO CIUDAD",
+    "hotelId": "RTAGPMAL",
+    "geoCode": {
+      "latitude": 36.72099,
+      "longitude": -4.42587
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.3,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:55"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700137735,
+    "name": "VENECIA",
+    "hotelId": "HSAGPABR",
+    "geoCode": {
+      "latitude": 36.71758,
+      "longitude": -4.4216
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.38,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:38:12"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700037892,
+    "name": "TRIBUNA MALAGENA - MALAGA",
+    "hotelId": "HAAGPTRI",
+    "geoCode": {
+      "latitude": 36.7217,
+      "longitude": -4.42494
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.41,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:07:18"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700046976,
+    "name": "COSO VIEJO - ANTEQUERA",
+    "hotelId": "HAAGPVIE",
+    "geoCode": {
+      "latitude": 36.7217,
+      "longitude": -4.42494
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.41,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:47:56"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AGP",
+    "dupeId": 700022079,
+    "name": "ROOM MATE LARIOS",
+    "hotelId": "WVAGPLAR",
+    "geoCode": {
+      "latitude": 36.72067,
+      "longitude": -4.42181
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.57,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:42"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700028494,
+    "name": "MAC PUERTO MARINA BENALMADENA",
+    "hotelId": "HSAGPAJD",
+    "geoCode": {
+      "latitude": 36.59857,
+      "longitude": -4.5121
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.58,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:06:04"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "AGP",
+    "dupeId": 700049656,
+    "name": "PETIT PALACE PLAZA MALAGA",
+    "hotelId": "UIAGP440",
+    "geoCode": {
+      "latitude": 36.7207,
+      "longitude": -4.42142
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.6,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:08:54"
+  },
+  {
+    "chainCode": "AR",
+    "iataCode": "AGP",
+    "dupeId": 700017180,
+    "name": "AC BY MARRIOTT MALAGA PALACIO",
+    "hotelId": "ARAGPMGP",
+    "geoCode": {
+      "latitude": 36.71899,
+      "longitude": -4.41966
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.61,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-10-23T06:23:00"
+  },
+  {
+    "chainCode": "WK",
+    "iataCode": "AGP",
+    "dupeId": 700042336,
+    "name": "HOTEL MOLINA LARIO",
+    "hotelId": "WKAGPMOL",
+    "geoCode": {
+      "latitude": 36.71916,
+      "longitude": -4.41976
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:24"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700001551,
+    "name": "PARADOR DE MALAGA GOLF",
+    "hotelId": "TYAGPGOL",
+    "geoCode": {
+      "latitude": 36.71963,
+      "longitude": -4.41991
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.64,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:12:49"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700001649,
+    "name": "TRITON",
+    "hotelId": "HSUTLAAL",
+    "geoCode": {
+      "latitude": 36.59693,
+      "longitude": -4.51876
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.86,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:58"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700037891,
+    "name": "HOTEL DEL PINTOR",
+    "hotelId": "HAAGPPIN",
+    "geoCode": {
+      "latitude": 36.72363,
+      "longitude": -4.41906
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 8.96,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:08:36"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700127932,
+    "name": "CASA DE LAS MERCEDES",
+    "hotelId": "HSAGPAFG",
+    "geoCode": {
+      "latitude": 36.72509,
+      "longitude": -4.41877
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.08,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:41"
+  },
+  {
+    "chainCode": "GZ",
+    "iataCode": "AGP",
+    "dupeId": 700189637,
+    "name": "ROYAL OASIS AT PUEBLO QUINTA",
+    "hotelId": "GZAGPROP",
+    "geoCode": {
+      "latitude": 36.59514,
+      "longitude": -4.52831
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.26,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:14:53"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700127931,
+    "name": "IGH ELISEOS",
+    "hotelId": "HSAGPAJA",
+    "geoCode": {
+      "latitude": 36.72099,
+      "longitude": -4.41073
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.4,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:39"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700001550,
+    "name": "PARADOR DE MALAGA GIBRALFARO",
+    "hotelId": "TYAGPGIB",
+    "geoCode": {
+      "latitude": 36.72316,
+      "longitude": -4.41055
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.55,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:12:49"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "AGP",
+    "dupeId": 700137871,
+    "name": "VILLA GUADALUPE",
+    "hotelId": "ONAGPVIL",
+    "geoCode": {
+      "latitude": 36.76083,
+      "longitude": -4.49627
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.55,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:19:37"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700035021,
+    "name": "SUNNY BEACH APARTHOTEL",
+    "hotelId": "HSAGPACB",
+    "geoCode": {
+      "latitude": 36.59172,
+      "longitude": -4.52679
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.59,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:49"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700041141,
+    "name": "BETANIA",
+    "hotelId": "HSAGPADJ",
+    "geoCode": {
+      "latitude": 36.59035,
+      "longitude": -4.53034
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 9.82,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:35:19"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700001625,
+    "name": "BALMORAL",
+    "hotelId": "HSUTLAAV",
+    "geoCode": {
+      "latitude": 36.58876,
+      "longitude": -4.5307
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 10,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:35:52"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700022435,
+    "name": "LAS VEGAS",
+    "hotelId": "HSAGPAGM",
+    "geoCode": {
+      "latitude": 36.72133,
+      "longitude": -4.40252
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 10.04,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:15"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700050822,
+    "name": "PIERRE - VACANCES BENALMADENA PRINCIPE",
+    "hotelId": "HSUTLAAZ",
+    "geoCode": {
+      "latitude": 36.5887,
+      "longitude": -4.53402
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 10.09,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:35"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700026726,
+    "name": "BENALMADENA PALACE HOTEL - SPA",
+    "hotelId": "HSAGPAFW",
+    "geoCode": {
+      "latitude": 36.58562,
+      "longitude": -4.53573
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 10.46,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:46"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "UTL",
+    "dupeId": 700025604,
+    "name": "SUNSET BEACH CLUB",
+    "hotelId": "HSUTLAAO",
+    "geoCode": {
+      "latitude": 36.58259,
+      "longitude": -4.53486
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 10.76,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:38:45"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700003537,
+    "name": "THB TORREQUEBRADA - BENALMADENA",
+    "hotelId": "TYAGPTOR",
+    "geoCode": {
+      "latitude": 36.58017,
+      "longitude": -4.54472
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 11.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:44:01"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700076223,
+    "name": "DOMUS",
+    "hotelId": "HSAGPADO",
+    "geoCode": {
+      "latitude": 36.7233,
+      "longitude": -4.3784
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 12.04,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:32"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700001651,
+    "name": "PLAYABONITA HOTEL",
+    "hotelId": "TYAGPBON",
+    "geoCode": {
+      "latitude": 36.5793,
+      "longitude": -4.56292
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 12.07,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:58"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700133407,
+    "name": "LA CHANCLA",
+    "hotelId": "HSAGPAHE",
+    "geoCode": {
+      "latitude": 36.72064,
+      "longitude": -4.37256
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 12.38,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:10:32"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700127391,
+    "name": "HOLIDAY HYDROS BOUTIQUE SPA - WELLNESS",
+    "hotelId": "HSAGPADZ",
+    "geoCode": {
+      "latitude": 36.57819,
+      "longitude": -4.57099
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 12.54,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:45"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700026686,
+    "name": "EL CENACHERO APARTAMENTOS",
+    "hotelId": "HSAGPAHU",
+    "geoCode": {
+      "latitude": 36.72178,
+      "longitude": -4.35802
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 13.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:05:00"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "AGP",
+    "dupeId": 700010175,
+    "name": "MIJAS HOTEL - MIJAS",
+    "hotelId": "ONAGPMIJ",
+    "geoCode": {
+      "latitude": 36.59816,
+      "longitude": -4.63382
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 14.75,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:19:05"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700011357,
+    "name": "PUERTA DEL SOL HOTEL-HACIENDA",
+    "hotelId": "HSAGPAAZ",
+    "geoCode": {
+      "latitude": 36.58127,
+      "longitude": -4.63747
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 16.16,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:14"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700141837,
+    "name": "NURIA SOL APARTAMENTOS",
+    "hotelId": "HSAGPAEJ",
+    "geoCode": {
+      "latitude": 36.55686,
+      "longitude": -4.61517
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 16.74,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:19"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "FGR",
+    "dupeId": 700025467,
+    "name": "HOTEL CENDRILLON",
+    "hotelId": "TYFGRCEN",
+    "geoCode": {
+      "latitude": 36.55505,
+      "longitude": -4.61419
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 16.84,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:15:10"
+  },
+  {
+    "chainCode": "CA",
+    "iataCode": "AGP",
+    "dupeId": 700032874,
+    "name": "CONFORTEL FUENGIROLA",
+    "hotelId": "CAAGPCON",
+    "geoCode": {
+      "latitude": 36.55357,
+      "longitude": -4.61294
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 16.91,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:12:32"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700004553,
+    "name": "ANGELA",
+    "hotelId": "HSAGPAFQ",
+    "geoCode": {
+      "latitude": 36.54951,
+      "longitude": -4.61592
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 17.43,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:36:38"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700094619,
+    "name": "MARIA CRISTINA",
+    "hotelId": "HSAGPAJR",
+    "geoCode": {
+      "latitude": 36.71547,
+      "longitude": -4.30919
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 17.54,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:14"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "FGR",
+    "dupeId": 700001511,
+    "name": "FLORIDA SPA",
+    "hotelId": "HSFGRAAN",
+    "geoCode": {
+      "latitude": 36.54394,
+      "longitude": -4.61978
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 18.13,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:05:11"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "FGR",
+    "dupeId": 700009303,
+    "name": "LAS PALMERAS",
+    "hotelId": "HSFGRAAD",
+    "geoCode": {
+      "latitude": 36.542,
+      "longitude": -4.62008
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 18.32,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:03:54"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "FGR",
+    "dupeId": 700094487,
+    "name": "MARBELLA HOSTAL",
+    "hotelId": "HSFGRAAK",
+    "geoCode": {
+      "latitude": 36.53741,
+      "longitude": -4.6252
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 19,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:10:11"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700001513,
+    "name": "LAS PIRAMIDES - FUENGIROLA",
+    "hotelId": "HAAGPPIR",
+    "geoCode": {
+      "latitude": 36.53238,
+      "longitude": -4.62531
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 19.46,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:56"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700047674,
+    "name": "EUROSTARS MIJAS - MIJAS",
+    "hotelId": "HAAGPMIJ",
+    "geoCode": {
+      "latitude": 36.55608,
+      "longitude": -4.66929
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 20.15,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:28:31"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700025808,
+    "name": "RINCONSOL - RINCON DE LA VICTORIA",
+    "hotelId": "HAAGPRIN",
+    "geoCode": {
+      "latitude": 36.7143,
+      "longitude": -4.27817
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 20.2,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:41"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700022077,
+    "name": "BEATRIZ PALACE AND SPA",
+    "hotelId": "TYAGPBEA",
+    "geoCode": {
+      "latitude": 36.52174,
+      "longitude": -4.62885
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 20.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:20:25"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "AGP",
+    "dupeId": 700027255,
+    "name": "EL OCEANO BEACH HOTEL",
+    "hotelId": "YXAGPCLU",
+    "geoCode": {
+      "latitude": 36.49081,
+      "longitude": -4.6951
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 26.96,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:24"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700054228,
+    "name": "ATALAYAS DE RIVIERA APARTMENTS",
+    "hotelId": "HSAGPADI",
+    "geoCode": {
+      "latitude": 36.50318,
+      "longitude": -4.71853
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 27.38,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:25"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "QRL",
+    "dupeId": 700018477,
+    "name": "VIME CAMPANARIO DE CALAHONDA-MIJAS COSTA",
+    "hotelId": "WVQRLCAM",
+    "geoCode": {
+      "latitude": 36.49433,
+      "longitude": -4.72809
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 28.68,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:58:10"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 700024502,
+    "name": "ALANDA CLUB MARBELLA APARTHOTEL",
+    "hotelId": "HSQRLABN",
+    "geoCode": {
+      "latitude": 36.4938,
+      "longitude": -4.77496
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 31.84,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:53"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 700163220,
+    "name": "SHANTI SOM WELLBEING RETREAT",
+    "hotelId": "HSQRLABT",
+    "geoCode": {
+      "latitude": 36.60355,
+      "longitude": -4.84926
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 32.26,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:04:29"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "QRL",
+    "dupeId": 700009781,
+    "name": "MARBELLA PLAYA HOTEL",
+    "hotelId": "TYQRLMAR",
+    "geoCode": {
+      "latitude": 36.49785,
+      "longitude": -4.801
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 33.41,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:53:43"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "QRL",
+    "dupeId": 700001564,
+    "name": "PINOMAR PLAYA HOTEL",
+    "hotelId": "TYQRLPIN",
+    "geoCode": {
+      "latitude": 36.49859,
+      "longitude": -4.8017
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 33.41,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:09:41"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "QRL",
+    "dupeId": 700009359,
+    "name": "LOS MONTEROS HOTEL",
+    "hotelId": "UIQRLMON",
+    "geoCode": {
+      "latitude": 36.50522,
+      "longitude": -4.82454
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 34.67,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:13:05"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "AGP",
+    "dupeId": 700019971,
+    "name": "HOTEL PROAMAR - TORRE DE MAR",
+    "hotelId": "ONAGPPRO",
+    "geoCode": {
+      "latitude": 36.73379,
+      "longitude": -4.09835
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 36.35,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:10"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700082145,
+    "name": "CORTIJO BRAVO - VELEZ-MALAGA",
+    "hotelId": "HAAGPAVO",
+    "geoCode": {
+      "latitude": 36.76961,
+      "longitude": -4.1059
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 36.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:52:07"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700018487,
+    "name": "TORREMAR COSTA DEL SOL",
+    "hotelId": "HSAGPAEE",
+    "geoCode": {
+      "latitude": 36.74033,
+      "longitude": -4.0928
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 36.98,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:06:04"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700009198,
+    "name": "LA VINUELA",
+    "hotelId": "HSAGPACD",
+    "geoCode": {
+      "latitude": 36.87545,
+      "longitude": -4.15846
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 37.68,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:18:35"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700085123,
+    "name": "FINCA ESLAVA - ANTEQUERA",
+    "hotelId": "HAAGPFIN",
+    "geoCode": {
+      "latitude": 37.01261,
+      "longitude": -4.55973
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 37.96,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:22"
+  },
+  {
+    "chainCode": "VC",
+    "iataCode": "AGP",
+    "dupeId": 700060058,
+    "name": "MARRIOTT VAC CLUB MARBELLA BCH",
+    "hotelId": "VCAGPMBV",
+    "geoCode": {
+      "latitude": 36.51198,
+      "longitude": -4.87998
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 38.56,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "QRL",
+    "dupeId": 700001568,
+    "name": "SAN CRISTOBAL - MARBELLA",
+    "hotelId": "HAQRLCRI",
+    "geoCode": {
+      "latitude": 36.50923,
+      "longitude": -4.88633
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 39.21,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:02:04"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "QRL",
+    "dupeId": 700001560,
+    "name": "HOTEL MONARQUE EL RODEO",
+    "hotelId": "TYQRLROD",
+    "geoCode": {
+      "latitude": 36.50913,
+      "longitude": -4.88748
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 39.3,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:47:57"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 700003543,
+    "name": "LIMA",
+    "hotelId": "HSQRLABB",
+    "geoCode": {
+      "latitude": 36.50785,
+      "longitude": -4.88841
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 39.44,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:49"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700004439,
+    "name": "AMANHAVIS",
+    "hotelId": "HSAGPAAV",
+    "geoCode": {
+      "latitude": 36.50909,
+      "longitude": -4.8903
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 39.53,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:38:59"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700021853,
+    "name": "APT EL FARO INN - MARBELLA",
+    "hotelId": "HAAGPFAR",
+    "geoCode": {
+      "latitude": 36.50822,
+      "longitude": -4.88999
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 39.55,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:07"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "QRL",
+    "dupeId": 700001561,
+    "name": "GRAN MELIA DON PEPE",
+    "hotelId": "SMQRL159",
+    "geoCode": {
+      "latitude": 36.50856,
+      "longitude": -4.90215
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 40.49,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:28:48"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700026769,
+    "name": "INTERCENTRO APARTAMENTOS",
+    "hotelId": "HSAGPAJT",
+    "geoCode": {
+      "latitude": 36.74589,
+      "longitude": -4.05231
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 40.64,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:29"
+  },
+  {
+    "chainCode": "NS",
+    "iataCode": "QRL",
+    "dupeId": 700026012,
+    "name": "NH MARBELLA",
+    "hotelId": "NSQRLMAR",
+    "geoCode": {
+      "latitude": 36.51089,
+      "longitude": -4.9082
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 40.86,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:01:49"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "QRL",
+    "dupeId": 700166083,
+    "name": "GUADALPIN SUITES - MARBELLA",
+    "hotelId": "HAQRLGUA",
+    "geoCode": {
+      "latitude": 36.50795,
+      "longitude": -4.91665
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 41.68,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:24:20"
+  },
+  {
+    "chainCode": "LE",
+    "iataCode": "QRL",
+    "dupeId": 700030166,
+    "name": "SENATOR MARBELLA SPA HOTEL",
+    "hotelId": "LEQRLSEN",
+    "geoCode": {
+      "latitude": 36.50547,
+      "longitude": -4.92277
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 42.29,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:07:50"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "QRL",
+    "dupeId": 700003542,
+    "name": "H10 ANDALUCIA PLAZA",
+    "hotelId": "UIQRLAND",
+    "geoCode": {
+      "latitude": 36.51063,
+      "longitude": -4.94907
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 44.17,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:18:03"
+  },
+  {
+    "chainCode": "YH",
+    "iataCode": "QRL",
+    "dupeId": 700006248,
+    "name": "IBEROSTAR MARBELLA CORAL BEACH",
+    "hotelId": "YHQRLMAB",
+    "geoCode": {
+      "latitude": 36.4977,
+      "longitude": -4.94136
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 44.17,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:20:25"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "AGP",
+    "dupeId": 700003541,
+    "name": "MELIA MARBELLA BANUS",
+    "hotelId": "SMAGPTRY",
+    "geoCode": {
+      "latitude": 36.49552,
+      "longitude": -4.94817
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 44.82,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700001566,
+    "name": "BLUEBAY BANUS",
+    "hotelId": "HSAGPAAI",
+    "geoCode": {
+      "latitude": 36.49578,
+      "longitude": -4.94916
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 44.89,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:36:38"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AGP",
+    "dupeId": 700025256,
+    "name": "PARK PLAZA PUERTO BANUS",
+    "hotelId": "WVAGPPPS",
+    "geoCode": {
+      "latitude": 36.4863,
+      "longitude": -4.95561
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 45.88,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "YH",
+    "iataCode": "AGP",
+    "dupeId": 501365724,
+    "name": "IBEROSTAR MALAGA PLAYA",
+    "hotelId": "YHAGPMLP",
+    "geoCode": {
+      "latitude": 36.73265,
+      "longitude": -3.97101
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 47.56,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:12:02"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 700001558,
+    "name": "GLOBALES CORTIJO BLANCO",
+    "hotelId": "HSQRLAAJ",
+    "geoCode": {
+      "latitude": 36.48511,
+      "longitude": -4.9779
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 47.72,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:14:19"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "QRL",
+    "dupeId": 700013558,
+    "name": "MELIA LA QUINTA",
+    "hotelId": "SMQRL297",
+    "geoCode": {
+      "latitude": 36.51347,
+      "longitude": -4.99482
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 47.8,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:17:00"
+  },
+  {
+    "chainCode": "FG",
+    "iataCode": "QRL",
+    "dupeId": 700016350,
+    "name": "HI! PUEBLO ANDALUZ",
+    "hotelId": "FGQRLPUE",
+    "geoCode": {
+      "latitude": 36.48476,
+      "longitude": -4.98273
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 48.12,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:25:38"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "QRL",
+    "dupeId": 700001562,
+    "name": "HOTEL GUADALMINA SPA AND GOLF",
+    "hotelId": "UIQRLGUA",
+    "geoCode": {
+      "latitude": 36.46877,
+      "longitude": -4.99666
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 50.04,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:44:48"
+  },
+  {
+    "chainCode": "BN",
+    "iataCode": "QRL",
+    "dupeId": 700031471,
+    "name": "BARCELO MARBELLA",
+    "hotelId": "BNQRL354",
+    "geoCode": {
+      "latitude": 36.48028,
+      "longitude": -5.00619
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 50.23,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:02:03"
+  },
+  {
+    "chainCode": "LX",
+    "iataCode": "QRL",
+    "dupeId": 700033931,
+    "name": "VILLA PADIERNA PALACE HOTEL",
+    "hotelId": "LXQRLRZZ",
+    "geoCode": {
+      "latitude": 36.55633,
+      "longitude": -5.05543
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 51.42,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:29:50"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "QRL",
+    "dupeId": 700001559,
+    "name": "TRH PARAISO",
+    "hotelId": "ONQRLPAR",
+    "geoCode": {
+      "latitude": 36.47591,
+      "longitude": -5.02904
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 52.28,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:18:34"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AGP",
+    "dupeId": 700001556,
+    "name": "ATALAYA PARK GOLF&RESORT - ESTEPONA",
+    "hotelId": "HAAGPAPG",
+    "geoCode": {
+      "latitude": 36.46385,
+      "longitude": -5.03705
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 53.51,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:01:01"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 700031294,
+    "name": "PIERRE - VACANCES ESTEPONA",
+    "hotelId": "HSQRLABQ",
+    "geoCode": {
+      "latitude": 36.46482,
+      "longitude": -5.03941
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 53.65,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:49"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700013646,
+    "name": "TOBOSO APARTAMENTOS",
+    "hotelId": "HSAGPAIV",
+    "geoCode": {
+      "latitude": 36.74481,
+      "longitude": -3.87637
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 56.1,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:56"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700146336,
+    "name": "LA POSADA MORISCA",
+    "hotelId": "HSAGPAHS",
+    "geoCode": {
+      "latitude": 36.75182,
+      "longitude": -3.87606
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 56.24,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:01"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700044236,
+    "name": "MARINA TURQUESA APARTAMENTOS",
+    "hotelId": "HSAGPAIP",
+    "geoCode": {
+      "latitude": 36.75652,
+      "longitude": -3.86845
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 56.99,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:08:45"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 501425665,
+    "name": "LOS ARCOS",
+    "hotelId": "HSAGPAIU",
+    "geoCode": {
+      "latitude": 36.75793,
+      "longitude": -3.86783
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 57.07,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:08:45"
+  },
+  {
+    "chainCode": "LW",
+    "iataCode": "GRX",
+    "dupeId": 700009111,
+    "name": "BARCELO LA BOBADILLA",
+    "hotelId": "LWGRX412",
+    "geoCode": {
+      "latitude": 37.16428,
+      "longitude": -4.29165
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 57.5,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700050983,
+    "name": "SIERRA HIDALGA",
+    "hotelId": "HSAGPAES",
+    "geoCode": {
+      "latitude": 36.72264,
+      "longitude": -5.14559
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 57.93,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:48"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AGP",
+    "dupeId": 700001578,
+    "name": "HOTEL MARINAS DE NERJA",
+    "hotelId": "WVAGPNER",
+    "geoCode": {
+      "latitude": 36.7912,
+      "longitude": -3.85284
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 59.08,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:09:41"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700072843,
+    "name": "ENFRENTE ARTE",
+    "hotelId": "HSAGPACK",
+    "geoCode": {
+      "latitude": 36.74075,
+      "longitude": -5.16178
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 59.57,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:15"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700094620,
+    "name": "EL POETA DE RONDA",
+    "hotelId": "HSAGPADS",
+    "geoCode": {
+      "latitude": 36.73984,
+      "longitude": -5.1656
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 59.9,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:30"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "RRA",
+    "dupeId": 700001553,
+    "name": "PARADOR DE RONDA",
+    "hotelId": "TYRRARON",
+    "geoCode": {
+      "latitude": 36.74116,
+      "longitude": -5.16636
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 59.98,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:14:39"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "RRA",
+    "dupeId": 700124175,
+    "name": "MORALES",
+    "hotelId": "HSRRAAAL",
+    "geoCode": {
+      "latitude": 36.74474,
+      "longitude": -5.16594
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 59.99,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:15"
+  },
+  {
+    "chainCode": "EP",
+    "iataCode": "SAY",
+    "dupeId": 700073182,
+    "name": "CASTELLO DI TORNANO",
+    "hotelId": "EPSAYCAS",
+    "geoCode": {
+      "latitude": 36.77976,
+      "longitude": -5.16244
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 60.3,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:01:32"
+  },
+  {
+    "chainCode": "KI",
+    "iataCode": "QRL",
+    "dupeId": 700008949,
+    "name": "KEMPINSKI HOTEL BAHIA ESTEPONA",
+    "hotelId": "KIQRL001",
+    "geoCode": {
+      "latitude": 36.43455,
+      "longitude": -5.1135
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 61.09,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:59:43"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700094621,
+    "name": "HACIENDA PUERTO DE LAS MUELAS",
+    "hotelId": "HSAGPADU",
+    "geoCode": {
+      "latitude": 36.7466,
+      "longitude": -5.18327
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 61.55,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:38:28"
+  },
+  {
+    "chainCode": "VC",
+    "iataCode": "AGP",
+    "dupeId": 700060047,
+    "name": "MARRIOTT VAC CLUB PLAYA ANDALU",
+    "hotelId": "VCAGPPYV",
+    "geoCode": {
+      "latitude": 36.48157,
+      "longitude": -5.14971
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-10-23T06:05:47"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "QRL",
+    "dupeId": 501425086,
+    "name": "ALBAYT SPA - GOLF RESORT - APARTHOTEL",
+    "hotelId": "HSQRLAAL",
+    "geoCode": {
+      "latitude": 36.42832,
+      "longitude": -5.15411
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 64.67,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:29"
+  },
+  {
+    "chainCode": "BN",
+    "iataCode": "AGP",
+    "dupeId": 700033644,
+    "name": "BARCELO ESTEPONA THALASSO SPA",
+    "hotelId": "BNAGPSEL",
+    "geoCode": {
+      "latitude": 36.41735,
+      "longitude": -5.17317
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 66.74,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:00:44"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700019277,
+    "name": "H10 ESTEPONA PALACE",
+    "hotelId": "HSAGPAGG",
+    "geoCode": {
+      "latitude": 36.41651,
+      "longitude": -5.17293
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 66.76,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:45"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "RRA",
+    "dupeId": 700168449,
+    "name": "LA POSADA DEL RECOVERO",
+    "hotelId": "HSRRAAAS",
+    "geoCode": {
+      "latitude": 36.54126,
+      "longitude": -5.22966
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 66.94,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:35:36"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "AGP",
+    "dupeId": 700004257,
+    "name": "SUITES ALBAYZIN DEL MAR",
+    "hotelId": "TYAGPALB",
+    "geoCode": {
+      "latitude": 36.73751,
+      "longitude": -3.69513
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 72.07,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:00"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AGP",
+    "dupeId": 700071500,
+    "name": "DON AGUSTIN",
+    "hotelId": "HSAGPAIF",
+    "geoCode": {
+      "latitude": 36.36762,
+      "longitude": -5.22511
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 73.39,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:45"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700145991,
+    "name": "VELILLA HOSTAL",
+    "hotelId": "HSGRXAFF",
+    "geoCode": {
+      "latitude": 36.7388,
+      "longitude": -3.66882
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 74.42,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:32:58"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "RRA",
+    "dupeId": 700022897,
+    "name": "HACIENDA LA HERRIZA",
+    "hotelId": "HSRRAAAO",
+    "geoCode": {
+      "latitude": 36.5191,
+      "longitude": -5.31842
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 75.23,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:06:59"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "AEI",
+    "dupeId": 700052463,
+    "name": "PUEBLO EL GOLETO HOTEL-APARTMENTS",
+    "hotelId": "HSAEIAAD",
+    "geoCode": {
+      "latitude": 36.35141,
+      "longitude": -5.24544
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 75.85,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:19"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "AGP",
+    "dupeId": 700001611,
+    "name": "BEST WESTERN HOTEL SALOBRENA",
+    "hotelId": "BWAGP221",
+    "geoCode": {
+      "latitude": 36.74321,
+      "longitude": -3.6224
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 78.59,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:53"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "OZU",
+    "dupeId": 700017219,
+    "name": "SANTO DOMINGO",
+    "hotelId": "HSOZUAAC",
+    "geoCode": {
+      "latitude": 37.40981,
+      "longitude": -4.48686
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 81.79,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:47"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700132461,
+    "name": "MARY TERE HOSTAL",
+    "hotelId": "HSGRXAIA",
+    "geoCode": {
+      "latitude": 36.74143,
+      "longitude": -3.58623
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 81.79,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:14"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700004918,
+    "name": "AVENIDA TROPICAL",
+    "hotelId": "HSGRXAGE",
+    "geoCode": {
+      "latitude": 36.73999,
+      "longitude": -3.58503
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 81.88,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:08:03"
+  },
+  {
+    "chainCode": "KH",
+    "iataCode": "GIB",
+    "dupeId": 700094616,
+    "name": "SOTOGRANDE MARINA CLUB",
+    "hotelId": "KHGIB405",
+    "geoCode": {
+      "latitude": 36.28966,
+      "longitude": -5.28116
+    },
+    "address": {
+      "countryCode": "GI"
+    },
+    "distance": {
+      "value": 82.07,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:58:40"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "SVQ",
+    "dupeId": 700145717,
+    "name": "FIVE GATES",
+    "hotelId": "HSSVQAFC",
+    "geoCode": {
+      "latitude": 37.24011,
+      "longitude": -5.10533
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 82.84,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:34:35"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700020213,
+    "name": "LA ENREA HOTEL RURAL",
+    "hotelId": "HSGRXACL",
+    "geoCode": {
+      "latitude": 37.31642,
+      "longitude": -4.00769
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 83.69,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:36:07"
+  },
+  {
+    "chainCode": "NS",
+    "iataCode": "AGP",
+    "dupeId": 700033971,
+    "name": "NH SOTOGRANDE",
+    "hotelId": "NSAGPSOT",
+    "geoCode": {
+      "latitude": 36.28661,
+      "longitude": -5.31277
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 84.67,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:41:23"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AEI",
+    "dupeId": 700013509,
+    "name": "THE SUITES AT SAN ROQUE CLUB",
+    "hotelId": "WVAEI748",
+    "geoCode": {
+      "latitude": 36.26343,
+      "longitude": -5.33372
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 87.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:29:04"
+  },
+  {
+    "chainCode": "NS",
+    "iataCode": "AGP",
+    "dupeId": 700015859,
+    "name": "NH ALMENARA GOLF",
+    "hotelId": "NSAGPALM",
+    "geoCode": {
+      "latitude": 36.27709,
+      "longitude": -5.34772
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 87.91,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:57"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700148551,
+    "name": "HACIENDA SENORIO DE NEVADA-VILLAMENA",
+    "hotelId": "HAGRXHAC",
+    "geoCode": {
+      "latitude": 36.98933,
+      "longitude": -3.59171
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 88.08,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:03:23"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ODB",
+    "dupeId": 700050544,
+    "name": "LAS ROSAS",
+    "hotelId": "HSODBAAX",
+    "geoCode": {
+      "latitude": 37.4391,
+      "longitude": -4.20191
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 89.04,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:07"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700047652,
+    "name": "BS CAPITULACIONES - SANTA FE",
+    "hotelId": "HAGRXCAP",
+    "geoCode": {
+      "latitude": 37.19043,
+      "longitude": -3.73107
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 89.22,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:06:15"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 501819084,
+    "name": "ELBA MOTRIL BEACH - BUSINESS",
+    "hotelId": "HSGRXABC",
+    "geoCode": {
+      "latitude": 36.75278,
+      "longitude": -3.48013
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 91.32,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:15:22"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 501425577,
+    "name": "ZERBINETTA HOTEL RURAL",
+    "hotelId": "HSGRXAEQ",
+    "geoCode": {
+      "latitude": 37.06911,
+      "longitude": -3.59358
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 91.78,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:10:43"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "OVD",
+    "dupeId": 700025666,
+    "name": "EXE MAGISTRAL HOTEL",
+    "hotelId": "KYOVDRAL",
+    "geoCode": {
+      "latitude": 36.16337,
+      "longitude": -5.34379
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 94.68,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:42:26"
+  },
+  {
+    "chainCode": "RT",
+    "iataCode": "GRX",
+    "dupeId": 700183252,
+    "name": "IBIS BUDGET GRANADA",
+    "hotelId": "RTGRXADA",
+    "geoCode": {
+      "latitude": 37.15411,
+      "longitude": -3.61163
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 95.29,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:08:47"
+  },
+  {
+    "chainCode": "AR",
+    "iataCode": "XRY",
+    "dupeId": 700020303,
+    "name": "AC BY MARRIOTT HOTEL LA LINEA",
+    "hotelId": "ARXRYLIN",
+    "geoCode": {
+      "latitude": 36.16581,
+      "longitude": -5.36091
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 95.75,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:05:27"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "GIB",
+    "dupeId": 700071580,
+    "name": "THE CALETA HOTEL",
+    "hotelId": "WVGIB309",
+    "geoCode": {
+      "latitude": 36.13801,
+      "longitude": -5.34127
+    },
+    "address": {
+      "countryCode": "GI"
+    },
+    "distance": {
+      "value": 96.24,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:48:29"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700039613,
+    "name": "NAZARIES BUSINESS&SPA - GRANADA",
+    "hotelId": "HAGRXNBS",
+    "geoCode": {
+      "latitude": 37.16687,
+      "longitude": -3.6079
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.36,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:08:36"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700042921,
+    "name": "MACIA REAL ALHAMBRA",
+    "hotelId": "TYGRXMAC",
+    "geoCode": {
+      "latitude": 37.16461,
+      "longitude": -3.60186
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.66,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:02:21"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700024227,
+    "name": "ANDALUCIA CENTER",
+    "hotelId": "KYGRXACH",
+    "geoCode": {
+      "latitude": 37.16104,
+      "longitude": -3.59845
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.69,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:10:58"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700094493,
+    "name": "ANA MARIA",
+    "hotelId": "HAGRXANA",
+    "geoCode": {
+      "latitude": 37.17517,
+      "longitude": -3.60916
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.79,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:33"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700094496,
+    "name": "REINO DE GRANADA",
+    "hotelId": "HAGRXGRA",
+    "geoCode": {
+      "latitude": 37.17065,
+      "longitude": -3.60479
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.82,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700033300,
+    "name": "M.A. ALHAMAR",
+    "hotelId": "HAGRXALH",
+    "geoCode": {
+      "latitude": 37.16911,
+      "longitude": -3.60265
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.88,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:02:35"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700043080,
+    "name": "ABADES NEVADA PALACE",
+    "hotelId": "KYGRXABA",
+    "geoCode": {
+      "latitude": 37.16297,
+      "longitude": -3.59656
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 96.95,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:07:50"
+  },
+  {
+    "chainCode": "DS",
+    "iataCode": "GRX",
+    "dupeId": 700039675,
+    "name": "HOTEL HOSPES PATOS GRANADA",
+    "hotelId": "DSGRXHOS",
+    "geoCode": {
+      "latitude": 37.17214,
+      "longitude": -3.60291
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.06,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:14"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700007796,
+    "name": "GRANADA CENTER",
+    "hotelId": "KYGRXGRC",
+    "geoCode": {
+      "latitude": 37.17549,
+      "longitude": -3.60484
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.13,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:16:59"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700025492,
+    "name": "VITA SAN ANTON - GRANADA",
+    "hotelId": "HAGRXANT",
+    "geoCode": {
+      "latitude": 37.16943,
+      "longitude": -3.59955
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.13,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:33"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700039789,
+    "name": "CAMINO DE GRANADA",
+    "hotelId": "HAGRXCAM",
+    "geoCode": {
+      "latitude": 37.18806,
+      "longitude": -3.61565
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.15,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:14"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700027284,
+    "name": "LA GARAPA",
+    "hotelId": "HSGRXAHW",
+    "geoCode": {
+      "latitude": 37.13751,
+      "longitude": -3.57306
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.17,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:33:30"
+  },
+  {
+    "chainCode": "WW",
+    "iataCode": "GRX",
+    "dupeId": 700052226,
+    "name": "HOTEL VILLA ONIRIA",
+    "hotelId": "WWGRXONI",
+    "geoCode": {
+      "latitude": 37.17094,
+      "longitude": -3.5998
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.21,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:10:44"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700182723,
+    "name": "ABADES RECOGIDAS",
+    "hotelId": "KYGRXREC",
+    "geoCode": {
+      "latitude": 37.17268,
+      "longitude": -3.60101
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.23,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:26:26"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700071437,
+    "name": "BS PRINCIPE FELIPE - ALBOLOTE",
+    "hotelId": "HAGRXFEL",
+    "geoCode": {
+      "latitude": 37.22787,
+      "longitude": -3.65255
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.24,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:05:32"
+  },
+  {
+    "chainCode": "LE",
+    "iataCode": "GIB",
+    "dupeId": 501376363,
+    "name": "SUNBORN GIBRALTAR",
+    "hotelId": "LEGIBSUN",
+    "geoCode": {
+      "latitude": 36.13288,
+      "longitude": -5.35051
+    },
+    "address": {
+      "countryCode": "GI"
+    },
+    "distance": {
+      "value": 97.24,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:00:46"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700005783,
+    "name": "HOTEL CARMEN",
+    "hotelId": "TYGRXCAR",
+    "geoCode": {
+      "latitude": 37.17066,
+      "longitude": -3.59819
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:29:04"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700024553,
+    "name": "DAURO",
+    "hotelId": "KYGRXDAU",
+    "geoCode": {
+      "latitude": 37.16948,
+      "longitude": -3.59706
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.32,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:03:54"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700008836,
+    "name": "JUAN MIGUEL",
+    "hotelId": "HAGRXJUA",
+    "geoCode": {
+      "latitude": 37.17234,
+      "longitude": -3.59935
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.33,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700094495,
+    "name": "SACROMONTE",
+    "hotelId": "KYGRXSAC",
+    "geoCode": {
+      "latitude": 37.17456,
+      "longitude": -3.6012
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.33,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:17"
+  },
+  {
+    "chainCode": "NS",
+    "iataCode": "GRX",
+    "dupeId": 700033326,
+    "name": "NH COLLECTION GRANADA VICTORIA",
+    "hotelId": "NSGRXVIC",
+    "geoCode": {
+      "latitude": 37.1734,
+      "longitude": -3.59988
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.36,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "GRX",
+    "dupeId": 700054505,
+    "name": "ROOM MATE LEO",
+    "hotelId": "WVGRXROO",
+    "geoCode": {
+      "latitude": 37.17414,
+      "longitude": -3.60027
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.37,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:56:04"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "GRX",
+    "dupeId": 700013767,
+    "name": "VINCCI ALBAYZIN",
+    "hotelId": "UIGRXTRY",
+    "geoCode": {
+      "latitude": 37.17043,
+      "longitude": -3.59685
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.39,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:41"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700041298,
+    "name": "LOS JERONIMOS",
+    "hotelId": "HSGRXAEX",
+    "geoCode": {
+      "latitude": 37.17878,
+      "longitude": -3.60351
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.43,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:32:43"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "GRX",
+    "dupeId": 700001517,
+    "name": "MELIA GRANADA",
+    "hotelId": "SMGRX125",
+    "geoCode": {
+      "latitude": 37.1731,
+      "longitude": -3.59832
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.45,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:18"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700128511,
+    "name": "NEST STYLE GRANADA",
+    "hotelId": "HSGRXAHK",
+    "geoCode": {
+      "latitude": 37.17375,
+      "longitude": -3.59865
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.47,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:57"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700094494,
+    "name": "DON JUAN",
+    "hotelId": "HAGRXSJU",
+    "geoCode": {
+      "latitude": 37.23304,
+      "longitude": -3.65437
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.48,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:55:31"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700038712,
+    "name": "PALACIO DE LOS NAVAS - GRANADA",
+    "hotelId": "HAGRXNAV",
+    "geoCode": {
+      "latitude": 37.1731,
+      "longitude": -3.59705
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.54,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "GRX",
+    "dupeId": 700128526,
+    "name": "ABBA GRANADA HOTEL",
+    "hotelId": "UIGRXGRA",
+    "geoCode": {
+      "latitude": 37.18531,
+      "longitude": -3.60702
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.6,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:58:09"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700128363,
+    "name": "PORTAGO SUITES",
+    "hotelId": "HAGRXPOR",
+    "geoCode": {
+      "latitude": 37.17402,
+      "longitude": -3.59672
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.63,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:04:49"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700141762,
+    "name": "SIDORME GRANADA - GRANADA",
+    "hotelId": "HAGRXSID",
+    "geoCode": {
+      "latitude": 37.17648,
+      "longitude": -3.59794
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.69,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:19:21"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700041665,
+    "name": "LOS GIRASOLES I. HOSTAL",
+    "hotelId": "HSGRXAFO",
+    "geoCode": {
+      "latitude": 37.18148,
+      "longitude": -3.60221
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.7,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:06:58"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700132130,
+    "name": "HACIENDA MINERVA",
+    "hotelId": "HSGRXAGL",
+    "geoCode": {
+      "latitude": 37.54294,
+      "longitude": -4.33404
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.7,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:37:25"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "GRX",
+    "dupeId": 700128366,
+    "name": "FONTECRUZ GRANADA",
+    "hotelId": "KYGRXFON",
+    "geoCode": {
+      "latitude": 37.17786,
+      "longitude": -3.5987
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.72,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:13:51"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700020212,
+    "name": "VINCCI GRANADA HOTEL",
+    "hotelId": "TYGRXVGH",
+    "geoCode": {
+      "latitude": 37.18358,
+      "longitude": -3.60352
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.74,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:18:03"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700094498,
+    "name": "POSADA DEL TORO",
+    "hotelId": "HSGRXACF",
+    "geoCode": {
+      "latitude": 37.17745,
+      "longitude": -3.59766
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.77,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:19:07"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700017224,
+    "name": "PLAZA NUEVA - GRANADA",
+    "hotelId": "HAGRXPLA",
+    "geoCode": {
+      "latitude": 37.17678,
+      "longitude": -3.59649
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.82,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:22:29"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700040280,
+    "name": "MOLINOS",
+    "hotelId": "HSGRXAHR",
+    "geoCode": {
+      "latitude": 37.17325,
+      "longitude": -3.59338
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.82,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:32:43"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700031293,
+    "name": "PUERTA DE LAS GRANADAS",
+    "hotelId": "HAGRXPUE",
+    "geoCode": {
+      "latitude": 37.17625,
+      "longitude": -3.5952
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.88,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:49:30"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700043338,
+    "name": "HG MARIBEL",
+    "hotelId": "HSGRXACS",
+    "geoCode": {
+      "latitude": 37.16279,
+      "longitude": -3.5838
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 97.88,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:35:04"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700024552,
+    "name": "H2 GRANADA",
+    "hotelId": "HAGRXH2G",
+    "geoCode": {
+      "latitude": 37.20089,
+      "longitude": -3.61456
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.07,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:05:44"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700017221,
+    "name": "PALACIO DE SANTA INES",
+    "hotelId": "HAGRXPAL",
+    "geoCode": {
+      "latitude": 37.17831,
+      "longitude": -3.5939
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.1,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:33"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700026616,
+    "name": "ZUHAYRA",
+    "hotelId": "HSGRXAGP",
+    "geoCode": {
+      "latitude": 37.54425,
+      "longitude": -4.31536
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.11,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:39:16"
+  },
+  {
+    "chainCode": "LE",
+    "iataCode": "GRX",
+    "dupeId": 700004318,
+    "name": "HOTEL ALHAMBRA PALACE",
+    "hotelId": "LEGRX116",
+    "geoCode": {
+      "latitude": 37.17407,
+      "longitude": -3.58938
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.17,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:33"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700148552,
+    "name": "ALHAMBRA APARTAMENTOS",
+    "hotelId": "HSGRXAFE",
+    "geoCode": {
+      "latitude": 37.18001,
+      "longitude": -3.59214
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.34,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:41"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700049454,
+    "name": "HOTEL MACIA VILLA BLANCA",
+    "hotelId": "TYGRXMVB",
+    "geoCode": {
+      "latitude": 37.23926,
+      "longitude": -3.64804
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.35,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:12:18"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 501422305,
+    "name": "CITYMAR TORREON - GRANADA",
+    "hotelId": "HAGRXVIT",
+    "geoCode": {
+      "latitude": 37.24204,
+      "longitude": -3.65074
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.36,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:09:49"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ODB",
+    "dupeId": 700162083,
+    "name": "MENCIA SUBBETICA HOTEL",
+    "hotelId": "HAODBMEN",
+    "geoCode": {
+      "latitude": 37.55189,
+      "longitude": -4.35478
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.43,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:15:41"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700007951,
+    "name": "GUADALUPE",
+    "hotelId": "HAGRXGUA",
+    "geoCode": {
+      "latitude": 37.17165,
+      "longitude": -3.57672
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 98.95,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:49"
+  },
+  {
+    "chainCode": "HI",
+    "iataCode": "CDZ",
+    "dupeId": 700144621,
+    "name": "HOLIDAY INN EXPRESS ALGECIRAS",
+    "hotelId": "HICDZBA5",
+    "geoCode": {
+      "latitude": 36.18665,
+      "longitude": -5.43214
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 99.67,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:20:23"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "GRX",
+    "dupeId": 700039628,
+    "name": "SAYLU - GRANADA",
+    "hotelId": "HAGRXSAY",
+    "geoCode": {
+      "latitude": 37.16286,
+      "longitude": -3.551
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 100.33,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:50:01"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700026178,
+    "name": "GRAN HOTEL MONACHIL",
+    "hotelId": "TYGRXGHM",
+    "geoCode": {
+      "latitude": 37.16214,
+      "longitude": -3.54847
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 100.47,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:58:25"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "AEI",
+    "dupeId": 700015387,
+    "name": "HOTEL GUADACORTE PARK",
+    "hotelId": "WVAEICOR",
+    "geoCode": {
+      "latitude": 36.18193,
+      "longitude": -5.44103
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 100.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:17:00"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "XRY",
+    "dupeId": 700024422,
+    "name": "ALBORAN - ALGECIRAS",
+    "hotelId": "HAXRYALB",
+    "geoCode": {
+      "latitude": 36.15855,
+      "longitude": -5.45677
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 103.24,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:05:28"
+  },
+  {
+    "chainCode": "AR",
+    "iataCode": "AEI",
+    "dupeId": 700032992,
+    "name": "AC BY MARRIOTT HOTEL ALGECIRAS",
+    "hotelId": "ARAEIALG",
+    "geoCode": {
+      "latitude": 36.14287,
+      "longitude": -5.44827
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 103.61,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:47:07"
+  },
+  {
+    "chainCode": "RT",
+    "iataCode": "AEI",
+    "dupeId": 700148544,
+    "name": "MERCURE ALGECIRAS",
+    "hotelId": "RTAEIMER",
+    "geoCode": {
+      "latitude": 36.14274,
+      "longitude": -5.44835
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 103.62,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:08:22"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AEI",
+    "dupeId": 700146194,
+    "name": "AURA HOTEL ALGECIRAS",
+    "hotelId": "HAAEIAUR",
+    "geoCode": {
+      "latitude": 36.13941,
+      "longitude": -5.45061
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 104,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:15:09"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "AEI",
+    "dupeId": 700061384,
+    "name": "MONTERA PLAZA HOTEL",
+    "hotelId": "HAAEIMON",
+    "geoCode": {
+      "latitude": 36.18161,
+      "longitude": -5.48962
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 104.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:18:17"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "AEI",
+    "dupeId": 700003535,
+    "name": "GLOBALES HOTEL REINA CRISTINA",
+    "hotelId": "UIAEIREI",
+    "geoCode": {
+      "latitude": 36.12308,
+      "longitude": -5.4449
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 104.64,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:25:39"
+  },
+  {
+    "chainCode": "LX",
+    "iataCode": "GRX",
+    "dupeId": 700128325,
+    "name": "EL LODGE SKI AND SPA RESORT",
+    "hotelId": "LXGRX666",
+    "geoCode": {
+      "latitude": 37.13221,
+      "longitude": -3.45038
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 106.31,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:28:01"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GRX",
+    "dupeId": 700146160,
+    "name": "QUENTAR",
+    "hotelId": "HSGRXAGV",
+    "geoCode": {
+      "latitude": 37.19202,
+      "longitude": -3.46703
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 108.36,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:40:03"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700026177,
+    "name": "APARTAMENTOS MONACHIL",
+    "hotelId": "TYGRXAMO",
+    "geoCode": {
+      "latitude": 37.09599,
+      "longitude": -3.40114
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 108.39,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:47:57"
+  },
+  {
+    "chainCode": "SM",
+    "iataCode": "GRX",
+    "dupeId": 700001520,
+    "name": "MELIA SOL Y NIEVE",
+    "hotelId": "SMGRXSOL",
+    "geoCode": {
+      "latitude": 37.09521,
+      "longitude": -3.39959
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 108.48,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T10:09:56"
+  },
+  {
+    "chainCode": "TY",
+    "iataCode": "GRX",
+    "dupeId": 700071517,
+    "name": "APARTAMENTOS MONTE GORBEA",
+    "hotelId": "TYGRXGOR",
+    "geoCode": {
+      "latitude": 37.09574,
+      "longitude": -3.39839
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 108.6,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T09:52:40"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "GEN",
+    "dupeId": 700129150,
+    "name": "SAN PABLO APARTAMENTOS",
+    "hotelId": "HSGENAAF",
+    "geoCode": {
+      "latitude": 37.54219,
+      "longitude": -5.07336
+    },
+    "address": {
+      "countryCode": "ES"
+    },
+    "distance": {
+      "value": 109.14,
+      "unit": "KM"
+    },
+    "lastUpdate": "2023-06-15T11:07:20"
+  }
+]

@@ -1,0 +1,22 @@
+<mat-card class="min-w-xs max-w-xs max-h-xs overflow-hidden" [ngClass]="{ selected: isSelected() }">
+  <mat-card-header>
+    <mat-card-title
+      ><span *ngIf="hotel.websiteUri"
+        ><a [href]="hotel.websiteUri" target="_blank">{{ hotel.name }}</a></span
+      >
+      <span *ngIf="!hotel.websiteUri">{{ hotel.name }}</span></mat-card-title
+    >
+    <mat-card-subtitle
+      >{{ hotel.address?.countryCode }} - Entfernung zum Stadtzentrum: {{ hotel.distance.value
+      }}{{ hotel.distance.unit }}</mat-card-subtitle
+    >
+  </mat-card-header>
+  <img mat-card-image [ngSrc]="getImageSource()" width="320" height="240.2" alt="Hotel Placeholder" />
+  <mat-card-content *ngIf="hotel.googleMapsUri">
+    <a [href]="hotel.googleMapsUri" target="_blank">Auf Google Maps anschauen</a>
+  </mat-card-content>
+  <mat-card-actions class="flex flex-row justify-between">
+    <button mat-button mat-flat-button color="accent" (click)="loadMoreInfo()">Info Laden</button>
+    <button mat-button mat-raised-button color="primary" (click)="selectHotel()">Hotel Auswählen</button>
+  </mat-card-actions>
+</mat-card>

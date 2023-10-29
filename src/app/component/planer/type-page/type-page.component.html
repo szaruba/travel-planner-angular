@@ -1,0 +1,13 @@
+<p>Wähle die Art deiner Reise. Abhängig von deiner Auswahl schlagen wir passende Unterkünfte vor.</p>
+<div class="flex flex-row flex-wrap justify-center content-center gap-x-10 gap-y-5">
+  <app-type-card
+    (click)="stateService.state.tripType = 'yoga'"
+    [isSelected]="stateService.state.tripType === 'yoga'"
+    title="Yoga"
+    assetPath="assets/yoga-2.jpg"></app-type-card>
+  <app-type-card
+    (click)="stateService.state.tripType = 'climbing'"
+    [isSelected]="stateService.state.tripType === 'climbing'"
+    title="Klettern"
+    assetPath="assets/klettern1.webp"></app-type-card>
+</div>

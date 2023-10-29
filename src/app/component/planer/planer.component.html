@@ -1,0 +1,24 @@
+<mat-stepper
+  [linear]="false"
+  [selectedIndex]="stateService.state.selectedStep ?? 0"
+  orientation="horizontal"
+  (selectedIndexChange)="stateService.state.selectedStep = $event">
+  <mat-step label="Reiseart auswählen">
+    <app-type-page></app-type-page>
+  </mat-step>
+  <mat-step label="Unterkunft auswählen">
+    <app-hotel-search-page></app-hotel-search-page>
+  </mat-step>
+
+  <mat-step label="Zimmerangebot">
+    <app-room-page></app-room-page>
+  </mat-step>
+  <mat-step label="Aktivitäten">
+    Gestalte deine Reise attraktiver indem du Zusatzangebote anbietest, die von den Teilnehmern optional gebucht werden
+    können.
+  </mat-step>
+  <mat-step label="Beschreibung und Ablauf">
+    Verfasse eine attraktive Zusammenfassung der Reise. Teile Informationen, die für die Reiseteilnehmer wichtig sind.
+  </mat-step>
+  <mat-step label="Preise festlegen"> Was soll die Reise für deine Teilnehmer kosten? </mat-step>
+</mat-stepper>

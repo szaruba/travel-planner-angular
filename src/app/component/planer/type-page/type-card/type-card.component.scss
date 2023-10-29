@@ -1,0 +1,37 @@
+:host {
+  display: contents;
+}
+
+/* Add a class to the selected element */
+.selected {
+  position: relative;
+}
+
+/* Create the glowing border effect using ::after pseudo-element */
+.selected::after {
+  content: '';
+  position: absolute;
+  top: 0px; /* Adjust the values as needed */
+  right: 0px; /* Adjust the values as needed */
+  bottom: 0px; /* Adjust the values as needed */
+  left: 0px; /* Adjust the values as needed */
+  border: 2px solid #00f; /* Border color */
+  border-radius: 5px; /* Adjust the border radius as needed */
+  animation: glowing 1.5s infinite;
+}
+
+/* Define the keyframes for the glowing animation */
+@keyframes glowing {
+  0% {
+    border-color: #00f; /* Start with the border color */
+    box-shadow: 0 0 5px #00f; /* Add a subtle box-shadow */
+  }
+  50% {
+    border-color: #33f; /* Midway change the border color */
+    box-shadow: 0 0 20px #33f; /* Increase the box-shadow effect */
+  }
+  100% {
+    border-color: #00f; /* End with the original border color */
+    box-shadow: 0 0 5px #00f; /* Back to the original box-shadow */
+  }
+}
