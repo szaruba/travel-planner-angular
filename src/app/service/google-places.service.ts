@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Hotel } from 'src/app/model/hotel.model';
 import { map, Observable, tap } from 'rxjs';
 
-export const API_KEY = 'AIzaSyAFhWQWnAHJFlZYrGH-vETvyXFPvPqw9u4';
+export const API_KEY = '';
 
 @Injectable({
   providedIn: 'root',

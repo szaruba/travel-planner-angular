@@ -3,8 +3,8 @@ import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject, interval } from 'rxjs';
 
 const API_BASE = 'https://test.api.amadeus.com/';
-const API_KEY = 'AsySbwAIAERUmUmAYccMDG72bmqpb751';
-const API_SECRET = 'DAc1A1vruZBI4rZE';
+const API_KEY = '';
+const API_SECRET = '';
 const DUMMY_TOKEN: AmadeusToken = { access_token: '', created_at: 0, expires_in: 1 };
 @Injectable({
   providedIn: 'root',
